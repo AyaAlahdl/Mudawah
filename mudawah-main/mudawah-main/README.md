@@ -1,16 +1,19 @@
 # mudawah
 
-A new Flutter project.
+"My graduation project, 'Mudawah' (Healing), is a comprehensive Android application designed to bridge the gap between patients and healthcare providers. The system enables users to locate highly-rated doctors, clinics, and hospitals, manage bookings, and share verified experience reviews to improve healthcare transparency.
 
-## Getting Started
+Key Technical Contributions:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Frontend Development: Built using Flutter and Dart to ensure a high-performance, responsive user interface across Android devices.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Backend & Data Management: Developed a robust backend using PHP and MySQL to handle relational data, including complex queries for doctor ratings, user reviews, and real-time appointment availability.
+
+
+Feature Integration: Implemented a rating and review algorithm that processes user feedback to dynamically rank healthcare providers, ensuring data integrity and a trust-based ecosystem.
+
+
+Performance: Achieved a near-perfect grade of 4.80/5.00 by demonstrating efficient data synchronization between the mobile client and the server-side database.
+
+This project allowed me to apply the core principles of Software Engineering and Data
